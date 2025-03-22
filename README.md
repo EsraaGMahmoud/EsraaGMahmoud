@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h5 align="left">🛠 Languages</h5>
+<h2 align="left">🛠 Languages</h2>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h5 align="left">📫 How to reach me :</h5>
+<h3 align="left">📫 How to reach me :</h3>
 
 ###
 
