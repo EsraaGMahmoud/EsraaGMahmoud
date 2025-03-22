@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">I am a Research Assistant at Baheya Foundation for the Early Detection and Treatment of Breast Cancer and currently pursuing a Master’s degree in Informatics.</p>
+
+###
+
 <br clear="both">
 
 <h2 align="left">🛠 Languages</h2>
