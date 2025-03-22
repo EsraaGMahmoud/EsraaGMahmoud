@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="left">🛠 Languages</h4>
+<h5 align="left">🛠 Languages</h5>
 
 ###
 
@@ -25,8 +25,12 @@
 
 ###
 
+<h5 align="left">📫 How to reach me :</h5>
+
+###
+
 <div align="left">
-  <a href="esraa.g009@gmail.com" target="_blank">
+  <a href="http://esraag009@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
